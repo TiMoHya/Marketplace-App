@@ -1,0 +1,38 @@
+[
+    {
+        "name": "мыло",
+        "price": 65.0,
+        "link": "url9",
+        "source": "Manual"
+    },
+    {
+        "name": "тарелка",
+        "price": 650.0,
+        "link": "url11",
+        "source": "Manual"
+    },
+    {
+        "name": "Часы",
+        "price": 3000.0,
+        "link": "url3",
+        "source": "Manual"
+    },
+    {
+        "name": "Планшет",
+        "price": 4000.0,
+        "link": "url4",
+        "source": "Manual"
+    },
+    {
+        "name": "Кроссовки",
+        "price": 5000.0,
+        "link": "url1",
+        "source": "Manual"
+    },
+    {
+        "name": "Телефон",
+        "price": 10000.0,
+        "link": "url2",
+        "source": "Manual"
+    }
+]
